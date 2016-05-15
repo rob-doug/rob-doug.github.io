@@ -20,7 +20,7 @@ html {
        color: white;
        display: block;
        width: 800px;
-       border: 3px solid #BFA539
+       border: 3px solid #BFA539;
    }
    nav {
        float: left;
@@ -32,7 +32,7 @@ html {
        width: 800px;
        text-align: center;
        list-style-type: none;
-       border: 3px solid #BFA539
+       border: 3px solid #BFA539;
    }
    nav li {
        float: left;
@@ -82,7 +82,7 @@ html {
      width: 350px;
      padding: 2px;
      margin: 10px;
-     border: 2px solid #c8cadf
+     border: 2px solid #c8cadf;
    }
    footer {
        width: 800px;
@@ -91,7 +91,7 @@ html {
        clear: both;
        display: block;
        text-align: center;
-       border: 3px solid #BFA539
+       border: 3px solid #BFA539;
    }
 
    #image img{
