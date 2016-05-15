@@ -1,0 +1,94 @@
+html {
+     height: 100%;
+     background-color: #d6d6d6
+   }
+   body {
+      width: 800px;
+      height: 100%;
+   }
+
+   header {
+       background-color: #2C008C;
+       padding: 3px;
+       font-size: 22;
+       text-align: center;
+       color: white;
+       display: block;
+       width: 800px;
+       border: 3px solid #BFA539
+   }
+   nav {
+       float: left;
+   }
+   nav ul {
+       padding: 3px;
+       float: left;
+       border-bottom: ;
+       width: 800px;
+       text-align: center;
+       list-style-type: none;
+       border: 3px solid #BFA539
+   }
+   nav li {
+       float: left;
+   }
+   nav li a {
+       display: table;
+       height: 25px;
+       padding: 12px 18px 8px 18px;
+       vertical-align: center;
+   }
+   a {
+       color: ;
+   }
+   section {
+       width: 800px;
+       display: inline-block;
+       float: left;
+   }
+   aside {
+       width: 65%;
+       display: inline-block;
+       background-color:;
+       padding:;
+       list-style-type: none;
+   }
+   aside ol {
+       list-style-type: upper-roman;
+   }
+   .accred {
+     font-size: 11;
+     text-align: right;
+     display: block;
+   }
+   aside li {
+     list-style-type: georgian;
+     display: table;
+     height: 25px;
+     padding: 12px 18px 8px 18px;
+     vertical-align: center;
+   }
+
+  #homeimage img {
+     float: right;
+     width: 350px;
+     padding: 2px;
+     margin: 10px;
+     border: 2px solid #c8cadf
+   }
+   footer {
+       width: 800px;
+       background-color:#2C008C;
+       color:white;
+       clear: both;
+       display: block;
+       text-align: center;
+       border: 3px solid #BFA539
+   }
+
+   #image img{
+     width: 25px;
+     height:25px;
+
+     border-radius: 100%;
+   }
