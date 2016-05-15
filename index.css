@@ -26,6 +26,7 @@ html {
        border: 3px solid #BFA539;
    }
    nav {
+        padding: 25px;
        float: left;
    }
    nav ul {
