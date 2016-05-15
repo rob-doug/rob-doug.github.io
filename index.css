@@ -10,6 +10,9 @@ html {
 *{
      margin: 0 auto;
 }
+     h3 {
+          padding: 40px;
+     }
 
    header {
        background-color: #2C008C;
