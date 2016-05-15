@@ -1,0 +1,98 @@
+*{
+  margin: 0 auto;
+}
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+      width:75%;
+       height: 100%;
+
+       border-style: double;
+       border-color: black;
+    }
+    #skill h2{
+      content: " "; /* 1 */
+      display: table; /* 2 */
+      clear:both;
+  }
+  #skill {
+  }
+#signup{
+text-align:center;
+background-color: grey;
+width:100%;
+}
+    header {
+        background-color:orange;
+        border-style: solid;
+        padding: 35px;
+        font-size:80%;
+        text-align:center;
+        display: block;
+    }
+    nav {
+      display:inline-block;
+    }
+    img{
+border-radius: 100%;
+width:100px;
+height:100px;
+margin-left: 30%;
+margin-right: 10%;
+margin-top: 50px;
+    }
+    #image ul{
+      list-style:none;
+    }
+    #image li{
+      float: left;
+    }
+
+    nav ul {
+        padding:20px 50px;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+        margin-left: 15px;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+        background-color:blue;
+    }
+    a {
+        color:white;
+        text-align: center;
+        font-size:20px;
+    }
+    section {
+        width: 73%;
+        display: inline-block;
+        float: left;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
