@@ -16,6 +16,7 @@ html {
        padding: 3px;
        font-size: 22;
        text-align: center;
+       letter-spacing: 4px;
        color: white;
        display: block;
        width: 800px;
@@ -48,6 +49,9 @@ html {
    section {
        width: 800px;
        display: inline-block;
+       line-height: 20px
+       letter-spacing: 1px;
+       padding: 60px 15px;
        float: left;
    }
    aside {
