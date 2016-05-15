@@ -13,6 +13,13 @@ html {
      h3 {
           padding: 6px;
      }
+  #skill h2{
+      content: " "; /* 1 */
+      display: table; /* 2 */
+      clear:both;
+  }
+  #skill {
+  }
 
    header {
        background-color: #2C008C;
